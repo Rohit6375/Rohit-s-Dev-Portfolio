@@ -132,3 +132,7 @@ footer .footer-rights{
 color: gray;
 text-align: center;
 }
+.buttons a{
+    text-decoration: none;
+    color: white;
+}
